@@ -3,3 +3,5 @@
 这个项目是python作业的一个轨迹绘制程序
 
 注意**不要删除** figure文件夹里边的index.txt， 是用来为绘制出的图片文件保存时编号用的。 
+
+![Image text](figure/single_uniform1.png)
