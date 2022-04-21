@@ -4,4 +4,8 @@
 
 注意**不要删除** figure文件夹里边的index.txt， 是用来为绘制出的图片文件保存时编号用的。 
 
+圆周运动展示：
 ![Image text](figure/single_uniform1.png)
+
+匀速运动与匀加速运动的混合运动展示：
+![Image text](figure/single_uniform2.png)
