@@ -90,7 +90,7 @@ def complex_track():    # 混合运动轨迹
     demo = Models()
     step = 0
     time = 0
-    print('每段默认运动时间50s！')
+    # print('每段默认运动时间50s！')
     while True:
 
         model_type = input('请输入第{}个运动模型类型: 1: 匀速直线运动     2: 匀加速运动     3: 圆周运动\n'.format(step+1))
